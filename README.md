@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to HAL
+HAL is a program put on by the Tacoma Public Library ment to teach kids and teens how to code. On this website, and in our organization, you will see repos and more added by people in HAL. Feel free to open an Issue to request to join, and add all of your things you'd want us to work on!
 
-You can use the [editor on GitHub](https://github.com/IN-HAL/in-hal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you to [Perdyx](https://github.com/Perdyx) for helping make this possible, along with John Hargis.
+Please look on [our GitHub Page](https://github.com/IN-HAL), and visit [Perdyx's HAL repo](https://github.com/Perdyx/HAL).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IN-HAL/in-hal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also, if you have any ideas of what should be put on this page, open an Issue and let us know!
+Thanks!
